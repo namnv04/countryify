@@ -1,16 +1,16 @@
 countryify
 =========
 
-List of countries, their states/provinces and other useful data for developers
+List of countries along with states/provinces and other useful data for Node developers.
 
 
 ## Installation
 
-  `npm install @jdaudier/number-formatter`
+  `npm install countryify`
 
 ## Usage
 
-    var numFormatter = require('@jdaudier/number-formatter');
+    var numFormatter = require('countryify');
 
     var formattedNum = numFormatter(35666);
 
@@ -25,3 +25,7 @@ List of countries, their states/provinces and other useful data for developers
 ## Contributing
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
+
+## License
+
+MIT

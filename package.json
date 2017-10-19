@@ -1,0 +1,26 @@
+{
+  "name": "countryify",
+  "version": "0.1.0",
+  "description": " List of countries, their states/provinces and other useful data for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namnv04/countryify.git"
+  },
+  "author": "Nam Vuong <namnv04@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namnv04/countryify/issues"
+  },
+  "homepage": "https://github.com/namnv04/countryify#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}

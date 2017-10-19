@@ -1,6 +1,6 @@
 {
   "name": "countryify",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": " List of countries along with states/provinces and other useful data for developers",
   "main": "index.js",
   "scripts": {

@@ -1,7 +1,7 @@
 {
   "name": "countryify",
-  "version": "0.1.0",
-  "description": " List of countries, their states/provinces and other useful data for developers",
+  "version": "0.1.1",
+  "description": " List of countries along with states/provinces and other useful data for developers",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"

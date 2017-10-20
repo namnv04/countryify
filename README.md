@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/namnv04/countryify.svg?branch=master)](https://travis-ci.org/namnv04/countryify)
 [![Coverage Status](https://coveralls.io/repos/github/namnv04/countryify/badge.svg?branch=master)](https://coveralls.io/github/namnv04/countryify?branch=master)
+[![npm version](https://badge.fury.io/js/countryify.svg)](https://badge.fury.io/js/countryify)
 
 countryify
 =========
